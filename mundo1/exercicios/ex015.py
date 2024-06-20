@@ -5,7 +5,7 @@ kmr = r * 0.15
 rf = cc + kmr
 print(f'O valor total a pagar é de R${rf:.2f}')
 
-# outra forma com menos variavel
+# outra forma com menos variaveis
 
 a = int(input('Quantos dias alugados? '))
 r = float(input('Quantos km rodados? '))

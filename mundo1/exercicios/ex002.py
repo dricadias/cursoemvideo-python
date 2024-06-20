@@ -7,7 +7,7 @@ print('É um grande prazer te conhecer, {}.'.format(nome))
 nome = input('Qual seu nome? ')
 print(f'É um prazer te conhecer, {nome}!')
 
-##########serparando
+#separando
 
 #nome=input("Qual seu nome? ")
 #print("Seja bem vindo,", nome)
